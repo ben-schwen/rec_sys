@@ -2,22 +2,22 @@
 
 ## Ex1 - Collaborative Filtering
 
--[x] done
+- [x] done
 
 ## Ex2 - Matrix Factorization
 
--[ ] done
+- [ ] done
 
 ## Ex3
 
--[ ] done
+- [ ] done
 
 ## Ex4
 
--[ ] done
+- [ ] done
 
 ## Project
 
--[ ] find project team
--[ ] start project
--[ ] finished project
+- [ ] find project team
+- [ ] start project
+- [ ] finished project
