@@ -10,7 +10,11 @@
 
 ## Ex3
 
+-[ ] done
+
 ## Ex4
+
+-[ ] done
 
 ## Project
 
