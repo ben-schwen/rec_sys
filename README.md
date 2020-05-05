@@ -8,7 +8,7 @@
 
 - [x] done
 
-## Ex3
+## Ex3 - Content-Based Recommender
 
 - [x] done
 
