@@ -6,11 +6,11 @@
 
 ## Ex2 - Matrix Factorization
 
-- [ ] done
+- [x] done
 
 ## Ex3
 
-- [ ] done
+- [x] done
 
 ## Ex4
 
