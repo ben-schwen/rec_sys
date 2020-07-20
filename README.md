@@ -1,4 +1,4 @@
-# Recommender Systems 194.035
+# Recommender Systems 194.035 // SS2020
 
 ## Ex1 - Collaborative Filtering
 
@@ -15,9 +15,3 @@
 ## Ex4
 
 - [x] done
-
-## Project
-
-- [ ] find project team
-- [ ] start project
-- [ ] finished project
